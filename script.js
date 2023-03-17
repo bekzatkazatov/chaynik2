@@ -39,5 +39,19 @@
 // })
 // console.log(num2)
 
+// ЗАДАНИЕ 17.03.2023
 
+// let array = [1, 2, 3, 4, 5]
+// let result = 0
+// for (let i = 0; i < array.length; i++) {
+//     result += array[i]
+// }
+// console.log(result)
 
+// let str = [1, 2, 5, 9, 4, 13, 4, 10]
+// for (let i = 0; i < str.length; i++) {
+//     if (str[i] === 4) {
+//         console.log('est')
+//         break
+//     }
+// }
